@@ -4,6 +4,6 @@ Platform that allows users to register, track and manage package shipments domes
 
 ### Contents:
 
-Logical diagram
-Physical diagram 
-Relational diagram 
+Logical diagram  
+Physical diagram   
+Relational diagram   
