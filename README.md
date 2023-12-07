@@ -1,3 +1,9 @@
-# Prueba técnica: base de datos
+# Technical proof: database
 
-Desarrolla un Backend robusto y eficiente para una plataforma de gestión de envíos de nuestra empresa Coordinadora, que permita a los usuarios registrar, rastrear y administrar envíos de paquetes a nivel nacional e internacional. El sistema debe ser capaz de gestionar múltiples tipos de paquetes, procesar información de seguimiento en tiempo real, asignar rutas óptimas para el reparto y proporcionar a los usuarios información detallada y actualizada sobre el estado y la ubicación de sus envíos. Asimismo, se requiere integrar características de seguridad y autenticación sólidas para garantizar la protección de los datos sensibles de los usuarios y la confidencialidad de la información de los envíos. El Backend deberá ser altamente escalable y adaptable para acomodar el crecimiento futuro y las necesidades cambiantes del negocio, además de ofrecer interfaces de programación de aplicaciones (API) bien documentadas para facilitar la integración con otros sistemas y servicios externos.
+Platform that allows users to register, track and manage package shipments domestically and internationally. The system must be able to manage multiple package types, process real-time tracking information, assign optimal routes for delivery, and provide users with detailed and up-to-date information on the status and location of their shipments. It is also required to integrate strong security and authentication features to ensure the protection of sensitive user data and the confidentiality of shipment information. The backend should be highly scalable and adaptable to accommodate future growth and changing business needs, as well as offer well-documented application programming interfaces (APIs) to facilitate integration with other external systems and services.
+
+### Contents:
+
+Logical diagram
+Physical diagram 
+Relational diagram 
